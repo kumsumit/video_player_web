@@ -8,11 +8,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  js: ^0.6.7
   video_player_platform_interface:
     git: https://github.com/kumsumit/video_player_platform_interface.git
   video_player_web:
     path: ../
+  web: ^0.5.1
 
 dev_dependencies:
   flutter_test:
