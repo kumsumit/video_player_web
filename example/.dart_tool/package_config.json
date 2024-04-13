@@ -227,10 +227,10 @@
       "name": "video_player_for_web_integration_tests",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-03-19T13:09:26.576933Z",
+  "generated": "2024-04-13T16:34:38.755761Z",
   "generator": "pub",
-  "generatorVersion": "3.3.1"
+  "generatorVersion": "3.3.3"
 }
