@@ -6,6 +6,8 @@ import 'dart:js_interop';
 
 import 'package:web/web.dart' as web;
 
+import 'pkg_web_tweaks.dart';
+
 // Returns the URL to load an asset from this example app as a network source.
 //
 // TODO(stuartmorgan): Convert this to a local `HttpServer` that vends the
